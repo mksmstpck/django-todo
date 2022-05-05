@@ -1,1 +1,3 @@
-django-todo
+# django-todo
+
+Django project for my portfolio
